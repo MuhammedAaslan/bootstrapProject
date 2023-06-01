@@ -28,7 +28,7 @@ body {
 }
 
 .picture {
-    height: calc(100vh - 400px);
+    height: 50vh;
     border-radius: 1rem;
 }
 
